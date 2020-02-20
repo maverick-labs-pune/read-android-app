@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (c) 2020. Maverick Labs
+  ~
+  ~   This program is free software: you can redistribute it and/or modify
+  ~  it under the terms of the GNU Affero General Public License as,
+  ~  published by the Free Software Foundation, either version 3 of the
+  ~  License, or (at your option) any later version.
+  ~
+  ~   This program is distributed in the hope that it will be useful,
+  ~  but WITHOUT ANY WARRANTY; without even the implied warranty of
+  ~  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  ~  GNU Affero General Public License for more details.
+  ~
+  ~   You should have received a copy of the GNU Affero General Public License
+  ~  along with this program.  If not, see <http://www.gnu.org/licenses/>.
+  -->
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_language"
+            android:icon="@drawable/ic_language"
+            android:title="Change language" />
+
+        <item
+            android:id="@+id/nav_books"
+            android:icon="@drawable/ic_books"
+            android:title="Books" />
+
+
+        <item
+            android:id="@+id/nav_change_password"
+            android:icon="@drawable/ic_language"
+            android:title="Change Password" />
+        <item
+            android:id="@+id/nav_logout"
+            android:checkable="false"
+            android:icon="@drawable/ic_logout"
+            android:title="Log out" />
+        <item
+            android:id="@+id/nav_about"
+            android:checkable="false"
+            android:icon="@drawable/baseline_info_black_24"
+            android:title="About" />
+    </group>
+
+
+</menu>

@@ -1,0 +1,55 @@
+<!--
+  ~ Copyright (c) 2020. Maverick Labs
+  ~
+  ~   This program is free software: you can redistribute it and/or modify
+  ~  it under the terms of the GNU Affero General Public License as,
+  ~  published by the Free Software Foundation, either version 3 of the
+  ~  License, or (at your option) any later version.
+  ~
+  ~   This program is distributed in the hope that it will be useful,
+  ~  but WITHOUT ANY WARRANTY; without even the implied warranty of
+  ~  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  ~  GNU Affero General Public License for more details.
+  ~
+  ~   You should have received a copy of the GNU Affero General Public License
+  ~  along with this program.  If not, see <http://www.gnu.org/licenses/>.
+  -->
+
+<resources>
+    <string name="app_name">Read</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="english">English</string>
+    <string name="marathi">मराठी</string>
+
+    <string name="sync_account_type">net.mavericklabs.read</string>
+    <string name="sync_account_name">read</string>
+    <string name="content_authority">net.mavericklabs.read.datasync.provider</string>
+
+    <string name="LABEL_USER_USERNAME_EN">Username</string>
+    <string name="LABEL_USER_PASSWORD_EN">Password</string>
+    <string name="LABEL_APP_TITLE_EN">The Read Project</string>
+    <string name="LABEL_FORGOT_PASSWORD_EN">Forgot password</string>
+    <string name="LABEL_LOGIN_EN">Login</string>
+    <string name="LABEL_CHANGE_LANGUAGE_EN">English</string>
+    <string name="LABEL_FORGOT_PASSWORD_EMAIL_EN">Email will be sent to the ngo admin</string>
+    <string name="LABEL_OK_EN">OK</string>
+    <string name="LABEL_ERROR_EN">Error</string>
+    <string name="LABEL_EMAIL_SENT_EN">Email sent</string>
+    <string name="NO_NETWORK_EN">No internet</string>
+
+    <string name="LABEL_USER_USERNAME_MR">वापरकर्तानाव</string>
+    <string name="LABEL_USER_PASSWORD_MR">पासवर्ड</string>
+    <string name="LABEL_APP_TITLE_MR">द रीड प्रोजेक्ट</string>
+    <string name="LABEL_FORGOT_PASSWORD_MR">पासवर्ड विसरला?</string>
+    <string name="LABEL_LOGIN_MR">लॉगिन करा</string>
+    <string name="LABEL_CHANGE_LANGUAGE_MR">मराठी</string>
+    <string name="LABEL_FORGOT_PASSWORD_EMAIL_MR">एनजीओ प्रशासकाला ईमेल पाठविले जाईल</string>
+    <string name="LABEL_OK_MR">ओके</string>
+    <string name="LABEL_ERROR_MR">एरर</string>
+    <string name="LABEL_EMAIL_SENT_MR">ईमेल पाठविले</string>
+    <string name="NO_NETWORK_MR">इंटरनेट नाही</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
